@@ -1,15 +1,17 @@
+/* aligns items in flex class */
 .flex {
     display: block;
     justify-content: space-between;
     align-items: center;
   }
-  
+/* sets height for container */
   .container {
     height: 90vh;
   }
-
+/* creates hover effect for list */
   li:hover {
     cursor: pointer;
   }
-  
+/* removes styling from list */
   ul{ list-style-type: none; }
+

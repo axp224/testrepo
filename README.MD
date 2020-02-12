@@ -2,8 +2,8 @@
 You can use keywords "closes" and "resolves" to auto-close issues as well as "fixes".
 
 3.
-You can close multiple issues with a single pr as long as you put
-a comma and a space between each (fixes #number).
+You can close multiple issues with a single pull request as long as you put
+a comma and a space between each <fixes #number>.
 
 4.
 // create an array called words
